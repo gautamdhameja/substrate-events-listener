@@ -1,5 +1,7 @@
 # Substrate Events Listener & Storage Adapter
 
+**Archived** - This repository is no longer up-to-date or maintained. Please refer to [Substrate Archive](https://github.com/paritytech/substrate-archive).
+
 A simple node.js based web-socket listener which subscribes to Parity Substrate runtime events and stores them in a data store. At the moment, MongoDB is supported but new stores can be added easily.
 
 Substrate node and data sink related config lives in the `.env` file.
